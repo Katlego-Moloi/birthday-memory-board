@@ -18,7 +18,7 @@ type Photo = {
 const photos: Photo[] = [
   {
     src: "/photos/polaroid1.jpg",
-    caption: "My graduate",
+    caption: "Where it all began",
     className: "absolute top-[6%] left-[8%] rotate-[-8deg]",
   },
   {
@@ -56,7 +56,7 @@ const photos: Photo[] = [
   },
   {
     src: "/photos/polaroid8.jpg",
-    caption: "Where it began",
+    caption: "Just us",
     className: "absolute top-[50%] left-[40%] rotate-[8deg]",
   },
   {
@@ -78,7 +78,7 @@ const photos: Photo[] = [
   },
   {
     src: "/photos/polaroid12.jpeg",
-    caption: "Just us",
+    caption: "My 2x Graduate",
     className: "absolute top-[74%] right-[8%] rotate-[9deg]",
   },
   {
